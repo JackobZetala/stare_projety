@@ -1,0 +1,5 @@
+<map id="GameScene" name="GameScene">
+<area shape="rect" id="node1" title="Scena z sama gra Zarzadza obiektami World, StatusBar, ContextMenu, Director" alt="" coords="42,329,165,509"/>
+<area shape="rect" id="node2" href="$class_scene.html" title="Klasa nadrzeda wsrod scen Tworzy wirtualne metody oraz metode ktora moze zazadac zmiany sceny" alt="" coords="5,131,201,281"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,5,150,83"/>
+</map>

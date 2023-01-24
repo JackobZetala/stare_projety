@@ -1,0 +1,5 @@
+<map id="Button::handleInput" name="Button::handleInput">
+<area shape="rect" id="node1" title="sprawdza nacisniecie myszy" alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$class_button.html#a67b39a0e33822eb9762f4e3fdc58ff61" title="funkcja wykonujaca zdarzenia po kliknieciu" alt="" coords="225,5,335,32"/>
+<area shape="rect" id="node3" href="$_sector_8cpp.html#a17a2dd37c7ae00a1ada217c04ae879c6" title="dodaje skale do poruszania sie myszki razem z transformMouseCoordinates(int,int)" alt="" coords="188,56,372,83"/>
+</map>

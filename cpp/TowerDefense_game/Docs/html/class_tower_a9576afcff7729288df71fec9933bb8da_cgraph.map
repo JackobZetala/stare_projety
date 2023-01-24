@@ -1,0 +1,7 @@
+<map id="Tower::Tower" name="Tower::Tower">
+<area shape="rect" id="node1" title="konstruktor" alt="" coords="5,81,104,108"/>
+<area shape="rect" id="node2" href="$struct_assets.html#afbe67810b540acabdee094924013a344" title=" " alt="" coords="183,5,272,32"/>
+<area shape="rect" id="node3" href="$struct_sector.html#a9a44c0a8bf7fe8001c48ffd768eb84a2" title=" " alt="" coords="169,56,286,83"/>
+<area shape="rect" id="node4" href="$_sector_8cpp.html#a1ed20c4ac93449e269a74b491df445e2" title="prostokat z tilesheet brany z textureId, bazuje na kafelkach/kwadratach" alt="" coords="170,107,285,133"/>
+<area shape="rect" id="node5" href="$struct_sector.html#a46e61f255183a855b3d9dd648cc02b51" title="Przejscie ze wspolrzednych sectora na wspolrzedne gry" alt="" coords="152,157,303,184"/>
+</map>

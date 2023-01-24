@@ -1,0 +1,5 @@
+<map id="Grid::draw" name="Grid::draw">
+<area shape="rect" id="node1" title="nadpisana virtualna metoda do rysowania obiektu w danym miejscu" alt="" coords="5,31,87,57"/>
+<area shape="rect" id="node2" href="$class_grid.html#a6e9bc84a5d8fd8b9b37b8b58f5adae0d" title="zwraca kordy sektora razem z blockAt(int,int)" alt="" coords="143,5,241,32"/>
+<area shape="rect" id="node3" href="$_sector_8cpp.html#a1ed20c4ac93449e269a74b491df445e2" title="prostokat z tilesheet brany z textureId, bazuje na kafelkach/kwadratach" alt="" coords="135,56,249,83"/>
+</map>

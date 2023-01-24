@@ -1,0 +1,7 @@
+<map id="Button" name="Button">
+<area shape="rect" id="node1" title="Przycisk reaguje na polozenie myszy i klikniecie Przycisk rozpoznaje kiedy przycisk zostal juz odklik..." alt="" coords="151,160,287,340"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,99,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="123,5,215,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="240,5,296,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="321,5,367,83"/>
+</map>

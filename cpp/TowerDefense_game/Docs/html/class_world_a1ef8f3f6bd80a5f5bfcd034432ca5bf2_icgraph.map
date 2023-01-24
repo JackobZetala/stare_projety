@@ -1,0 +1,6 @@
+<map id="World::getTowerAt" name="World::getTowerAt">
+<area shape="rect" id="node1" title="Sprawdza gdzie sa juz wieze" alt="" coords="443,31,572,57"/>
+<area shape="rect" id="node2" href="$class_world.html#a3810c0d31462b43c6fe246b264a4a6a1" title="Spradza czy mozna postawic wieze w danym sektorze" alt="" coords="225,5,391,32"/>
+<area shape="rect" id="node3" href="$class_context_menu.html#a1cf662d759cc01c7c54524d425413c91" title="wylapuje wcisniecie myszki" alt="" coords="221,56,395,83"/>
+<area shape="rect" id="node4" href="$class_game_scene.html#a31563d35431488c490ffb355e8ea36bf" title="Nadpisana virtualna metoda sprawdzajaca nacisniecie przycisku" alt="" coords="5,56,173,83"/>
+</map>

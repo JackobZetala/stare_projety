@@ -1,0 +1,9 @@
+<map id="ContextMenu::update" name="ContextMenu::update">
+<area shape="rect" id="node1" title="aktualizuje polozenie myszki" alt="" coords="5,81,152,108"/>
+<area shape="rect" id="node2" href="$struct_sector.html#a49b349af90a17bd842bb218ae9ad280c" title="Przejscie ze wsplrzednych gry na wspolrzedne sectora razem z fromCoords(const coords)" alt="" coords="217,5,351,32"/>
+<area shape="rect" id="node3" href="$class_world.html#a80564af5f8af6c40e67ada8022b9ced0" title="Zwraca sciezke" alt="" coords="231,56,337,83"/>
+<area shape="rect" id="node4" href="$class_grid.html#a22c752a57903e2b4d2a88789831ce241" title="sprawdza czy w danycm sektorze nie ma juz czegos zbudowanego" alt="" coords="200,107,368,133"/>
+<area shape="rect" id="node7" href="$struct_sector.html#a46e61f255183a855b3d9dd648cc02b51" title="Przejscie ze wspolrzednych sectora na wspolrzedne gry" alt="" coords="209,157,359,184"/>
+<area shape="rect" id="node5" href="$class_grid.html#a6e9bc84a5d8fd8b9b37b8b58f5adae0d" title="zwraca kordy sektora razem z blockAt(int,int)" alt="" coords="453,81,551,108"/>
+<area shape="rect" id="node6" href="$class_grid.html#aa4d15d9b667fe85a53fb77b262a4afd0" title="sprawdza czy na tym sektorze jest dozwolone budowanie" alt="" coords="416,132,588,159"/>
+</map>

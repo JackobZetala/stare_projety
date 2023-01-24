@@ -1,0 +1,7 @@
+<map id="World::canPlaceTowerAt" name="World::canPlaceTowerAt">
+<area shape="rect" id="node1" title="Spradza czy mozna postawic wieze w danym sektorze" alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$class_world.html#a1ef8f3f6bd80a5f5bfcd034432ca5bf2" title="Sprawdza gdzie sa juz wieze" alt="" coords="238,5,367,32"/>
+<area shape="rect" id="node3" href="$class_grid.html#a22c752a57903e2b4d2a88789831ce241" title="sprawdza czy w danycm sektorze nie ma juz czegos zbudowanego" alt="" coords="219,56,387,83"/>
+<area shape="rect" id="node4" href="$class_grid.html#a6e9bc84a5d8fd8b9b37b8b58f5adae0d" title="zwraca kordy sektora razem z blockAt(int,int)" alt="" coords="471,31,570,57"/>
+<area shape="rect" id="node5" href="$class_grid.html#aa4d15d9b667fe85a53fb77b262a4afd0" title="sprawdza czy na tym sektorze jest dozwolone budowanie" alt="" coords="435,81,607,108"/>
+</map>

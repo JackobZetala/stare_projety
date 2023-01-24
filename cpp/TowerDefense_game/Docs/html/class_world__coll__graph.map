@@ -1,0 +1,11 @@
+<map id="World" name="World">
+<area shape="rect" id="node1" title="Swiat to klasa ktora laczy siatke ze wszystkimi bytami Zarzadza obiektami Grid, Actors,..." alt="" coords="438,403,581,671"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,99,90"/>
+<area shape="rect" id="node3" href="$class_grid.html" title="Siatka jest to prostokat zlozony z sektorow, ktore maja powiazana teksture Tekstura przypisana do sek..." alt="" coords="231,175,387,340"/>
+<area shape="rect" id="node4" title=" " alt="" coords="418,13,457,90"/>
+<area shape="rect" id="node5" title=" " alt="" coords="123,5,251,97"/>
+<area shape="rect" id="node6" title=" " alt="" coords="275,13,394,90"/>
+<area shape="rect" id="node7" title=" " alt="" coords="517,219,645,296"/>
+<area shape="rect" id="node8" title=" " alt="" coords="669,219,800,296"/>
+<area shape="rect" id="node9" title=" " alt="" coords="825,219,975,296"/>
+</map>

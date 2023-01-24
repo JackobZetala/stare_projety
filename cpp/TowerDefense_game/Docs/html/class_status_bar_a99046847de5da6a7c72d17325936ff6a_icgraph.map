@@ -1,0 +1,4 @@
+<map id="StatusBar::update" name="StatusBar::update">
+<area shape="rect" id="node1" title="aktualizuje pasek statusu" alt="" coords="195,5,321,32"/>
+<area shape="rect" id="node2" href="$class_game_scene.html#a6f00216fbb14fc1601adb93d2af9f4cc" title="Nadpisana virtualna metoda aktualizujaca scene" alt="" coords="5,5,147,32"/>
+</map>

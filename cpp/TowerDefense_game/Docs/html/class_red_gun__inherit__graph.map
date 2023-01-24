@@ -1,0 +1,6 @@
+<map id="RedGun" name="RedGun">
+<area shape="rect" id="node1" title="konkretny typ wiezy" alt="" coords="35,719,163,869"/>
+<area shape="rect" id="node2" href="$class_tower.html" title="Wieze buduje uytkownik i dzieki nim walczymy z przeciwnikiem Uzytkownik ma wiele miejsc zeby postawic..." alt="" coords="5,388,192,671"/>
+<area shape="rect" id="node3" href="$class_entity.html" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="15,131,183,340"/>
+<area shape="rect" id="node4" title=" " alt="" coords="52,5,145,83"/>
+</map>

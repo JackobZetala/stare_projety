@@ -1,0 +1,4 @@
+<map id="World::draw" name="World::draw">
+<area shape="rect" id="node1" title="Rysuje wszystkie wskazane obiekty" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$class_world.html#ae7a76510f5e321e9d5c1de690e64120b" title="Rysuje dane byty" alt="" coords="144,5,251,32"/>
+</map>

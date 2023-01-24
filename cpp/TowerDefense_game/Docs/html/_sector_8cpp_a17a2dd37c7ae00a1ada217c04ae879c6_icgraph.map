@@ -1,0 +1,7 @@
+<map id="transformMouseCoordinates" name="transformMouseCoordinates">
+<area shape="rect" id="node1" title="dodaje skale do poruszania sie myszki razem z transformMouseCoordinates(int,int)" alt="" coords="443,56,627,83"/>
+<area shape="rect" id="node2" href="$class_button.html#a5e7b326d5cda3a3a0f0d84ac5f3af1e2" title="sprawdza nacisniecie myszy" alt="" coords="241,5,375,32"/>
+<area shape="rect" id="node3" href="$class_context_menu.html#a1cf662d759cc01c7c54524d425413c91" title="wylapuje wcisniecie myszki" alt="" coords="221,56,395,83"/>
+<area shape="rect" id="node5" href="$class_game_scene.html#a6f00216fbb14fc1601adb93d2af9f4cc" title="Nadpisana virtualna metoda aktualizujaca scene" alt="" coords="237,107,379,133"/>
+<area shape="rect" id="node4" href="$class_game_scene.html#a31563d35431488c490ffb355e8ea36bf" title="Nadpisana virtualna metoda sprawdzajaca nacisniecie przycisku" alt="" coords="5,56,173,83"/>
+</map>

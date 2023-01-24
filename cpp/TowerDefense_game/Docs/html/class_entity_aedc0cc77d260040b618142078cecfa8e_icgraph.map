@@ -1,0 +1,8 @@
+<map id="Entity::distanceSquaredFrom" name="Entity::distanceSquaredFrom">
+<area shape="rect" id="node1" title="Zwraca odleglosc miedzy bytami do kwadratu" alt="" coords="623,31,813,57"/>
+<area shape="rect" id="node2" href="$class_tower.html#abf6f613e0bfc472e4bf2ba654f5fb5a6" title="Bedzie nullptr gdy nie ma aktora w zasiegu" alt="" coords="437,5,575,32"/>
+<area shape="rect" id="node4" href="$class_entity.html#acc04faabd63ddeacfc47ad9ba351e7c6" title="Sprawdza czy cel jest w zasiegu" alt="" coords="445,56,567,83"/>
+<area shape="rect" id="node3" href="$class_tower.html#a84b90fadf302c01adaa19cb597a66e53" title="aktualizuje wieze" alt="" coords="241,5,343,32"/>
+<area shape="rect" id="node5" href="$class_projectile.html#af18f14fe20e1d3c558c95c86433def23" title="Sprawdza czy pocisk dotarl do celu" alt="" coords="195,56,389,83"/>
+<area shape="rect" id="node6" href="$class_projectile.html#ad6c60f24f30506b8b7870373a73d74ee" title="sprawdza czy pocisk jest do usuniecia" alt="" coords="5,56,147,83"/>
+</map>

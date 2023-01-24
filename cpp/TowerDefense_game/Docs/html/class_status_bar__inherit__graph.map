@@ -1,0 +1,4 @@
+<map id="StatusBar" name="StatusBar">
+<area shape="rect" id="node1" title="Pasek w lewym gornym rogu ktory pokazuje stan konta i hp uzytkownika" alt="" coords="5,131,112,252"/>
+<area shape="rect" id="node2" title=" " alt="" coords="12,5,105,83"/>
+</map>

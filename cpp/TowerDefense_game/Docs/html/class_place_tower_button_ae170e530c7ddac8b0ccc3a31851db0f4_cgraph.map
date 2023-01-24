@@ -1,0 +1,5 @@
+<map id="PlaceTowerButton::onClick" name="PlaceTowerButton::onClick">
+<area shape="rect" id="node1" title="wykonanie zadan po nacisnieciu przycisku" alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$class_button.html#a67b39a0e33822eb9762f4e3fdc58ff61" title="funkcja wykonujaca zdarzenia po kliknieciu" alt="" coords="241,5,352,32"/>
+<area shape="rect" id="node3" href="$class_world.html#a2f6c66e0c0f9cbc2cee31c876b97d0c2" title="Stawia wieze i zmniejsza balans konta uzytkownika" alt="" coords="232,56,361,83"/>
+</map>

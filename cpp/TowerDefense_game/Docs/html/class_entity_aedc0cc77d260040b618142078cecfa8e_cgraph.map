@@ -1,0 +1,4 @@
+<map id="Entity::distanceSquaredFrom" name="Entity::distanceSquaredFrom">
+<area shape="rect" id="node1" title="Zwraca odleglosc miedzy bytami do kwadratu" alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="244,5,349,32"/>
+</map>

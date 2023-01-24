@@ -1,0 +1,8 @@
+<map id="Sector::upperLeftPoint" name="Sector::upperLeftPoint">
+<area shape="rect" id="node1" title="Przejscie ze wspolrzednych sectora na wspolrzedne gry" alt="" coords="443,56,593,83"/>
+<area shape="rect" id="node2" href="$class_context_menu.html#a1cf662d759cc01c7c54524d425413c91" title="wylapuje wcisniecie myszki" alt="" coords="221,5,395,32"/>
+<area shape="rect" id="node4" href="$class_tower.html#a9576afcff7729288df71fec9933bb8da" title="konstruktor" alt="" coords="259,56,357,83"/>
+<area shape="rect" id="node5" href="$class_context_menu.html#ab8d9d1452a419c569dd61a80e05a2797" title="aktualizuje polozenie myszki" alt="" coords="235,107,381,133"/>
+<area shape="rect" id="node3" href="$class_game_scene.html#a31563d35431488c490ffb355e8ea36bf" title="Nadpisana virtualna metoda sprawdzajaca nacisniecie przycisku" alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node6" href="$class_game_scene.html#a6f00216fbb14fc1601adb93d2af9f4cc" title="Nadpisana virtualna metoda aktualizujaca scene" alt="" coords="19,107,160,133"/>
+</map>

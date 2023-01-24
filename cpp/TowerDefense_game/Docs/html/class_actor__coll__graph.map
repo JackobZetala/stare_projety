@@ -1,0 +1,9 @@
+<map id="Actor" name="Actor">
+<area shape="rect" id="node1" title="Aktor dziedziczy po bytch i reprezentuje przeciwnikow &#160;&#160;Aktor chodzi po siezce, przy trafieniu pocisk..." alt="" coords="294,417,447,597"/>
+<area shape="rect" id="node2" href="$class_entity.html" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="77,145,245,340"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,99,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="123,5,179,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="245,5,283,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="388,204,489,281"/>
+<area shape="rect" id="node7" title=" " alt="" coords="514,204,561,281"/>
+</map>

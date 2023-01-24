@@ -1,0 +1,13 @@
+<map id="GameScene::handleInput" name="GameScene::handleInput">
+<area shape="rect" id="node1" title="Nadpisana virtualna metoda sprawdzajaca nacisniecie przycisku" alt="" coords="5,157,173,184"/>
+<area shape="rect" id="node2" href="$class_context_menu.html#a1cf662d759cc01c7c54524d425413c91" title="wylapuje wcisniecie myszki" alt="" coords="221,157,395,184"/>
+<area shape="rect" id="node3" href="$struct_sector.html#a49b349af90a17bd842bb218ae9ad280c" title="Przejscie ze wsplrzednych gry na wspolrzedne sectora razem z fromCoords(const coords)" alt="" coords="488,5,623,32"/>
+<area shape="rect" id="node4" href="$class_world.html#a80564af5f8af6c40e67ada8022b9ced0" title="Zwraca sciezke" alt="" coords="502,56,609,83"/>
+<area shape="rect" id="node5" href="$class_world.html#a1ef8f3f6bd80a5f5bfcd034432ca5bf2" title="Sprawdza gdzie sa juz wieze" alt="" coords="491,107,620,133"/>
+<area shape="rect" id="node6" href="$class_grid.html#a22c752a57903e2b4d2a88789831ce241" title="sprawdza czy w danycm sektorze nie ma juz czegos zbudowanego" alt="" coords="471,157,639,184"/>
+<area shape="rect" id="node9" href="$class_context_menu.html#a263fc2cc437a070c2e1801c8ad9050d3" title="przygotowuje menu zakupu wiezy" alt="" coords="443,208,668,235"/>
+<area shape="rect" id="node10" href="$_sector_8cpp.html#a17a2dd37c7ae00a1ada217c04ae879c6" title="dodaje skale do poruszania sie myszki razem z transformMouseCoordinates(int,int)" alt="" coords="463,259,647,285"/>
+<area shape="rect" id="node11" href="$struct_sector.html#a46e61f255183a855b3d9dd648cc02b51" title="Przejscie ze wspolrzednych sectora na wspolrzedne gry" alt="" coords="480,309,631,336"/>
+<area shape="rect" id="node7" href="$class_grid.html#a6e9bc84a5d8fd8b9b37b8b58f5adae0d" title="zwraca kordy sektora razem z blockAt(int,int)" alt="" coords="753,132,851,159"/>
+<area shape="rect" id="node8" href="$class_grid.html#aa4d15d9b667fe85a53fb77b262a4afd0" title="sprawdza czy na tym sektorze jest dozwolone budowanie" alt="" coords="716,183,888,209"/>
+</map>

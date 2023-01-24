@@ -1,0 +1,6 @@
+<map id="Entity::getPosition" name="Entity::getPosition">
+<area shape="rect" id="node1" title="Zwraca dana pozycje" alt="" coords="437,31,567,57"/>
+<area shape="rect" id="node2" href="$class_projectile.html#af18f14fe20e1d3c558c95c86433def23" title="Sprawdza czy pocisk dotarl do celu" alt="" coords="195,5,389,32"/>
+<area shape="rect" id="node4" href="$class_projectile.html#a3e48e694004419d32983c32b9d21722d" title="aktualizuje pociski" alt="" coords="231,56,353,83"/>
+<area shape="rect" id="node3" href="$class_projectile.html#ad6c60f24f30506b8b7870373a73d74ee" title="sprawdza czy pocisk jest do usuniecia" alt="" coords="5,5,147,32"/>
+</map>

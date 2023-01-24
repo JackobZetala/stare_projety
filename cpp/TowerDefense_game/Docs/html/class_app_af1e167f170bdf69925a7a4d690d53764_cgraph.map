@@ -1,0 +1,6 @@
+<map id="App::loop" name="App::loop">
+<area shape="rect" id="node1" title="Metoda glownej petli gry ktora utrzymuje sie dopoki otwarte jest okno Podczas tej petli sprawdzane sa..." alt="" coords="5,56,83,83"/>
+<area shape="rect" id="node2" href="$class_app.html#a0d1e34ad933202ee69bf59038c21d46a" title="Metoda odpowiedzialna za pilnowanie czasu odswiezania" alt="" coords="131,5,305,32"/>
+<area shape="rect" id="node3" href="$class_app.html#a82cf101250fcf289a59c4d4b9b847029" title="Metoda trzymajaca informacje o jakims wejsciu" alt="" coords="159,56,277,83"/>
+<area shape="rect" id="node4" href="$class_app.html#ae809421e976d032b98a28f282774c137" title="Metoda trzymajaca prosbe o zmiane sceny" alt="" coords="132,107,304,133"/>
+</map>

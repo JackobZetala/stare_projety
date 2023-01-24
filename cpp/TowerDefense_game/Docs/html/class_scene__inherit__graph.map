@@ -1,0 +1,8 @@
+<map id="Scene" name="Scene">
+<area shape="rect" id="node1" title="Klasa nadrzeda wsrod scen Tworzy wirtualne metody oraz metode ktora moze zazadac zmiany sceny" alt="" coords="38,131,234,281"/>
+<area shape="rect" id="node3" href="$class_game_scene.html" title="Scena z sama gra Zarzadza obiektami World, StatusBar, ContextMenu, Director" alt="" coords="5,329,128,509"/>
+<area shape="rect" id="node4" href="$class_text_scene.html" title="Abstrakcyjna scena ktora wyswietla dwa teksty i po nacisniecia klawisza przenosi na kolejna scene Zar..." alt="" coords="153,351,261,487"/>
+<area shape="rect" id="node2" title=" " alt="" coords="89,5,183,83"/>
+<area shape="rect" id="node5" href="$class_game_over_scene.html" title="Scena po przegranej pokazujaca do ktorrej fali dotrwal gracz Po nacisnieciu dowolnego przycisku przek..." alt="" coords="57,557,197,649"/>
+<area shape="rect" id="node6" href="$class_welcome_scene.html" title="Scena powitalna z info co za gra i kto wykonal" alt="" coords="221,557,355,649"/>
+</map>

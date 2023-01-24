@@ -1,0 +1,11 @@
+<map id="Projectile::toRemove" name="Projectile::toRemove">
+<area shape="rect" id="node1" title="sprawdza czy pocisk jest do usuniecia" alt="" coords="5,81,147,108"/>
+<area shape="rect" id="node2" href="$class_projectile.html#af18f14fe20e1d3c558c95c86433def23" title="Sprawdza czy pocisk dotarl do celu" alt="" coords="195,56,389,83"/>
+<area shape="rect" id="node7" href="$class_actor.html#a71267c7ca0b53e9b4e3fa9c1b9d55e81" title="Sprawdza czy aktor jest do usuniecia (przeszedl sciezke lub umarl)" alt="" coords="233,107,351,133"/>
+<area shape="rect" id="node3" href="$class_entity.html#a82c77b14cad08fd1785e7d670cfb0e6f" title="Zwraca dana pozycje" alt="" coords="459,5,588,32"/>
+<area shape="rect" id="node4" href="$class_entity.html#acc04faabd63ddeacfc47ad9ba351e7c6" title="Sprawdza czy cel jest w zasiegu" alt="" coords="463,56,584,83"/>
+<area shape="rect" id="node5" href="$class_entity.html#aedc0cc77d260040b618142078cecfa8e" title="Zwraca odleglosc miedzy bytami do kwadratu" alt="" coords="657,56,848,83"/>
+<area shape="rect" id="node6" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="896,56,1001,83"/>
+<area shape="rect" id="node8" href="$class_actor.html#a7c00ba12a63fd996b7e524d1e7e53e0e" title="Sprawdza czy aktor posiada HP" alt="" coords="474,107,573,133"/>
+<area shape="rect" id="node9" href="$class_actor.html#a9e6c984a0434a685850992ad18cc8921" title="Sprawdza czy aktor przeszedl sciezke" alt="" coords="437,157,609,184"/>
+</map>

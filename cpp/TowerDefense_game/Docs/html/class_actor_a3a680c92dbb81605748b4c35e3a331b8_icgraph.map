@@ -1,0 +1,4 @@
+<map id="Actor::damage" name="Actor::damage">
+<area shape="rect" id="node1" title="Zabiera HP aktorowi" alt="" coords="176,5,283,32"/>
+<area shape="rect" id="node2" href="$class_projectile.html#a3e48e694004419d32983c32b9d21722d" title="aktualizuje pociski" alt="" coords="5,5,128,32"/>
+</map>

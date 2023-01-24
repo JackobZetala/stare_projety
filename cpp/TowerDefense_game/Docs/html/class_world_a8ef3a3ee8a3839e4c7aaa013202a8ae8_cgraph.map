@@ -1,0 +1,5 @@
+<map id="World::update" name="World::update">
+<area shape="rect" id="node1" title="aktualizacje wszystko co dzieje sie na swiecie" alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$class_world.html#a6a687db753330936be8fb9ca877c0e72" title="Usuwa byty ktore chca byc usuniete" alt="" coords="168,5,263,32"/>
+<area shape="rect" id="node3" href="$class_world.html#a084e5804860efab6302779f5bc8a1f95" title="Aktualizuje dane byty" alt="" coords="156,56,275,83"/>
+</map>

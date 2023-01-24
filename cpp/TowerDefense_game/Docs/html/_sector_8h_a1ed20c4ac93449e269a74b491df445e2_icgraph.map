@@ -1,0 +1,7 @@
+<map id="textureRectById" name="textureRectById">
+<area shape="rect" id="node1" title="prostokat z tilesheet brany z textureId, bazuje na kafelkach/kwadratach" alt="" coords="240,81,355,108"/>
+<area shape="rect" id="node2" href="$class_grid.html#acba0b8bbff74116aff17edb67e603366" title="nadpisana virtualna metoda do rysowania obiektu w danym miejscu" alt="" coords="58,5,139,32"/>
+<area shape="rect" id="node3" href="$class_entity.html#a68ab858283cbd4f837d0fb5e6cd25b0b" title="konstruktor" alt="" coords="49,56,148,83"/>
+<area shape="rect" id="node4" href="$class_tower.html#a9576afcff7729288df71fec9933bb8da" title="konstruktor" alt="" coords="49,107,148,133"/>
+<area shape="rect" id="node5" href="$class_tower_preview.html#a821f5f54c5d200a1848cf3fb9b14cd0e" title="konstruktor" alt="" coords="5,157,192,184"/>
+</map>

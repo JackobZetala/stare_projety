@@ -1,0 +1,10 @@
+<map id="Grid::blockAt" name="Grid::blockAt">
+<area shape="rect" id="node1" title="zwraca kordy sektora razem z blockAt(int,int)" alt="" coords="659,31,757,57"/>
+<area shape="rect" id="node2" href="$class_grid.html#acba0b8bbff74116aff17edb67e603366" title="nadpisana virtualna metoda do rysowania obiektu w danym miejscu" alt="" coords="486,5,567,32"/>
+<area shape="rect" id="node3" href="$class_grid.html#a22c752a57903e2b4d2a88789831ce241" title="sprawdza czy w danycm sektorze nie ma juz czegos zbudowanego" alt="" coords="443,56,611,83"/>
+<area shape="rect" id="node4" href="$class_world.html#a3810c0d31462b43c6fe246b264a4a6a1" title="Spradza czy mozna postawic wieze w danym sektorze" alt="" coords="225,5,391,32"/>
+<area shape="rect" id="node5" href="$class_context_menu.html#a1cf662d759cc01c7c54524d425413c91" title="wylapuje wcisniecie myszki" alt="" coords="221,56,395,83"/>
+<area shape="rect" id="node7" href="$class_context_menu.html#ab8d9d1452a419c569dd61a80e05a2797" title="aktualizuje polozenie myszki" alt="" coords="235,107,381,133"/>
+<area shape="rect" id="node6" href="$class_game_scene.html#a31563d35431488c490ffb355e8ea36bf" title="Nadpisana virtualna metoda sprawdzajaca nacisniecie przycisku" alt="" coords="5,56,173,83"/>
+<area shape="rect" id="node8" href="$class_game_scene.html#a6f00216fbb14fc1601adb93d2af9f4cc" title="Nadpisana virtualna metoda aktualizujaca scene" alt="" coords="19,107,160,133"/>
+</map>

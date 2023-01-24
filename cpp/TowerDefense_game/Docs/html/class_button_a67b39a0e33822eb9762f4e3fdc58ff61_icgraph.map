@@ -1,0 +1,5 @@
+<map id="Button::onClick" name="Button::onClick">
+<area shape="rect" id="node1" title="funkcja wykonujaca zdarzenia po kliknieciu" alt="" coords="232,31,343,57"/>
+<area shape="rect" id="node2" href="$class_button.html#a5e7b326d5cda3a3a0f0d84ac5f3af1e2" title="sprawdza nacisniecie myszy" alt="" coords="27,5,162,32"/>
+<area shape="rect" id="node3" href="$class_place_tower_button.html#ae170e530c7ddac8b0ccc3a31851db0f4" title="wykonanie zadan po nacisnieciu przycisku" alt="" coords="5,56,184,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Tower" name="Tower">
+<area shape="rect" id="node1" title="Wieze buduje uytkownik i dzieki nim walczymy z przeciwnikiem Uzytkownik ma wiele miejsc zeby postawic..." alt="" coords="52,388,239,671"/>
+<area shape="rect" id="node4" href="$class_green_gun.html" title="konkretny typ wiezy" alt="" coords="5,719,133,869"/>
+<area shape="rect" id="node5" href="$class_red_gun.html" title="konkretny typ wiezy" alt="" coords="157,719,285,869"/>
+<area shape="rect" id="node2" href="$class_entity.html" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="61,131,229,340"/>
+<area shape="rect" id="node3" title=" " alt="" coords="99,5,192,83"/>
+</map>

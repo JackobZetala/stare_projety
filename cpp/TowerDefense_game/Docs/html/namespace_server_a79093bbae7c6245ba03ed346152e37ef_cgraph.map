@@ -1,0 +1,6 @@
+<map id="Server::Startup" name="Server::Startup">
+<area shape="rect" id="node1" title="Funkcja wywolywana w mainie aby sprawdzac thready" alt="" coords="5,56,113,83"/>
+<area shape="rect" id="node2" href="$namespace_server.html#ae6b506ed804cd17cd9342a515a4c7e6f" title="Funkcja do wysylania wiadomosci przez serwer do klientow" alt="" coords="161,5,317,32"/>
+<area shape="rect" id="node3" href="$namespace_server.html#a72b6fffb20ca10937dcedcc2ac133e53" title="Serwer odbiera wiadomosc od jakiegos klienta i odsyla ja do kazdego klienta oraz wyswitla ta widomosc..." alt="" coords="167,56,311,83"/>
+<area shape="rect" id="node4" href="$namespace_server.html#a6774ba1f44b734ea0f3331980e485d5b" title="Ustawianie portu" alt="" coords="182,107,297,133"/>
+</map>

@@ -1,0 +1,8 @@
+﻿  Director.cpp
+C:\Users\jakub\Desktop\TOWER_DEFENSE\TD1.11\TD\Director.h(33,6): error C3646: "app": nieznany specyfikator przesłonięcia
+C:\Users\jakub\Desktop\TOWER_DEFENSE\TD1.11\TD\Director.h(33,9): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\jakub\Desktop\TOWER_DEFENSE\TD1.11\TD\Director.cpp(15,6): error C2065: "app": niezadeklarowany identyfikator
+  GameScene.cpp
+C:\Users\jakub\Desktop\TOWER_DEFENSE\TD1.11\TD\Director.h(33,6): error C3646: "app": nieznany specyfikator przesłonięcia
+C:\Users\jakub\Desktop\TOWER_DEFENSE\TD1.11\TD\Director.h(33,9): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+  Generowanie kodu...

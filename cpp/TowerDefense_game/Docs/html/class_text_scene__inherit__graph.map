@@ -1,0 +1,7 @@
+<map id="TextScene" name="TextScene">
+<area shape="rect" id="node1" title="Abstrakcyjna scena ktora wyswietla dwa teksty i po nacisniecia klawisza przenosi na kolejna scene Zar..." alt="" coords="101,329,209,465"/>
+<area shape="rect" id="node4" href="$class_game_over_scene.html" title="Scena po przegranej pokazujaca do ktorrej fali dotrwal gracz Po nacisnieciu dowolnego przycisku przek..." alt="" coords="5,513,145,605"/>
+<area shape="rect" id="node5" href="$class_welcome_scene.html" title="Scena powitalna z info co za gra i kto wykonal" alt="" coords="169,513,304,605"/>
+<area shape="rect" id="node2" href="$class_scene.html" title="Klasa nadrzeda wsrod scen Tworzy wirtualne metody oraz metode ktora moze zazadac zmiany sceny" alt="" coords="57,131,253,281"/>
+<area shape="rect" id="node3" title=" " alt="" coords="109,5,202,83"/>
+</map>

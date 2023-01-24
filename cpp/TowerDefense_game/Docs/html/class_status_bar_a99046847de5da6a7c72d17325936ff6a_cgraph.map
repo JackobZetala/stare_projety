@@ -1,0 +1,5 @@
+<map id="StatusBar::update" name="StatusBar::update">
+<area shape="rect" id="node1" title="aktualizuje pasek statusu" alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$class_world.html#a393152609489d51b747f1883f3f86018" title="Zwraca balans konta uzytkownika" alt="" coords="183,5,312,32"/>
+<area shape="rect" id="node3" href="$class_world.html#abfcf4390c02331999c2dd2b3bba10115" title="Zwraca HP uzytkownika" alt="" coords="180,56,315,83"/>
+</map>

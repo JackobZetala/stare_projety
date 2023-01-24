@@ -1,0 +1,5 @@
+<map id="Tower::closestActor" name="Tower::closestActor">
+<area shape="rect" id="node1" title="Bedzie nullptr gdy nie ma aktora w zasiegu" alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$class_entity.html#aedc0cc77d260040b618142078cecfa8e" title="Zwraca odleglosc miedzy bytami do kwadratu" alt="" coords="191,5,381,32"/>
+<area shape="rect" id="node3" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="429,5,535,32"/>
+</map>

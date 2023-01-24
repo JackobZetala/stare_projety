@@ -1,0 +1,5 @@
+<map id="Client::Connect" name="Client::Connect">
+<area shape="rect" id="node1" title="Funkcja do laczenia sie z serwerem" alt="" coords="257,5,368,32"/>
+<area shape="rect" id="node2" href="$namespace_client.html#a8ae5e4c758dbb1de26675a0473578814" title="Funkcja wywolywana w mainie aby sprawdzac thready" alt="" coords="104,5,209,32"/>
+<area shape="rect" id="node3" href="$_t_d_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,32"/>
+</map>

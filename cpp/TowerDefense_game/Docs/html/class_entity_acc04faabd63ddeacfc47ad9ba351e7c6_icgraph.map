@@ -1,0 +1,6 @@
+<map id="Entity::isInRange" name="Entity::isInRange">
+<area shape="rect" id="node1" title="Sprawdza czy cel jest w zasiegu" alt="" coords="437,31,559,57"/>
+<area shape="rect" id="node2" href="$class_projectile.html#af18f14fe20e1d3c558c95c86433def23" title="Sprawdza czy pocisk dotarl do celu" alt="" coords="195,5,389,32"/>
+<area shape="rect" id="node4" href="$class_tower.html#a84b90fadf302c01adaa19cb597a66e53" title="aktualizuje wieze" alt="" coords="241,56,343,83"/>
+<area shape="rect" id="node3" href="$class_projectile.html#ad6c60f24f30506b8b7870373a73d74ee" title="sprawdza czy pocisk jest do usuniecia" alt="" coords="5,5,147,32"/>
+</map>

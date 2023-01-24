@@ -1,0 +1,4 @@
+<map id="Actor::clone" name="Actor::clone">
+<area shape="rect" id="node1" title="Klonuje aktora" alt="" coords="5,5,97,32"/>
+<area shape="rect" id="node2" href="$class_entity.html#af697fbba791f971a75f17f0b7c245b85" title="Zwraca Id tekstury" alt="" coords="145,5,280,32"/>
+</map>

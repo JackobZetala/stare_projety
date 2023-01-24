@@ -1,0 +1,12 @@
+#pragma once
+#include "Projectile.h"
+/// <summary>
+/// Rodzaj pocisku, rakieta
+/// </summary>
+class Rocket : public Projectile
+{
+public:
+	Rocket(const sf::Vector2f& origin, Actor* target);
+	virtual void update(sf::Time delta, World& world) override;
+};
+

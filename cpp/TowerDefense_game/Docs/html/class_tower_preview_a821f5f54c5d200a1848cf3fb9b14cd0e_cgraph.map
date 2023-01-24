@@ -1,0 +1,4 @@
+<map id="TowerPreview::TowerPreview" name="TowerPreview::TowerPreview">
+<area shape="rect" id="node1" title="konstruktor" alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$_sector_8cpp.html#a1ed20c4ac93449e269a74b491df445e2" title="prostokat z tilesheet brany z textureId, bazuje na kafelkach/kwadratach" alt="" coords="240,5,355,32"/>
+</map>

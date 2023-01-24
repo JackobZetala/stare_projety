@@ -1,0 +1,5 @@
+<map id="Entity::isInRange" name="Entity::isInRange">
+<area shape="rect" id="node1" title="Sprawdza czy cel jest w zasiegu" alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$class_entity.html#aedc0cc77d260040b618142078cecfa8e" title="Zwraca odleglosc miedzy bytami do kwadratu" alt="" coords="175,5,365,32"/>
+<area shape="rect" id="node3" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="413,5,519,32"/>
+</map>

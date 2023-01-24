@@ -1,0 +1,10 @@
+<map id="App" name="App">
+<area shape="rect" id="node1" title="Najwazniejsza klasa posiadajaca glowna petle gry, oraz ladujaca textury Wspolpracuje ze scenami Zarza..." alt="" coords="350,160,509,311"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,112,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="137,5,183,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="207,5,350,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="375,5,484,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="509,5,563,83"/>
+<area shape="rect" id="node7" title=" " alt="" coords="588,5,639,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="739,5,840,83"/>
+</map>

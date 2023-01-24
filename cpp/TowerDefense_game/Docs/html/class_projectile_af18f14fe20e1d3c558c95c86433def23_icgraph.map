@@ -1,0 +1,4 @@
+<map id="Projectile::reachedDestination" name="Projectile::reachedDestination">
+<area shape="rect" id="node1" title="Sprawdza czy pocisk dotarl do celu" alt="" coords="195,5,389,32"/>
+<area shape="rect" id="node2" href="$class_projectile.html#ad6c60f24f30506b8b7870373a73d74ee" title="sprawdza czy pocisk jest do usuniecia" alt="" coords="5,5,147,32"/>
+</map>

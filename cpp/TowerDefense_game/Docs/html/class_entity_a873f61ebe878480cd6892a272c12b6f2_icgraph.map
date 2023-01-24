@@ -1,0 +1,4 @@
+<map id="Entity::draw" name="Entity::draw">
+<area shape="rect" id="node1" title="Rysuje byty" alt="" coords="144,5,235,32"/>
+<area shape="rect" id="node2" href="$class_tower.html#aa5640d0ded95b65423d68939634e8afa" title="rysuje wieze" alt="" coords="5,5,96,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Tower::closestActor" name="Tower::closestActor">
+<area shape="rect" id="node1" title="Bedzie nullptr gdy nie ma aktora w zasiegu" alt="" coords="156,5,293,32"/>
+<area shape="rect" id="node2" href="$class_tower.html#a84b90fadf302c01adaa19cb597a66e53" title="aktualizuje wieze" alt="" coords="5,5,108,32"/>
+</map>

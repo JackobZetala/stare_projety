@@ -1,0 +1,11 @@
+<map id="Tower" name="Tower">
+<area shape="rect" id="node1" title="Wieze buduje uytkownik i dzieki nim walczymy z przeciwnikiem Uzytkownik ma wiele miejsc zeby postawic..." alt="" coords="330,461,457,656"/>
+<area shape="rect" id="node2" href="$class_entity.html" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="103,189,271,384"/>
+<area shape="rect" id="node3" title=" " alt="" coords="140,5,234,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="28,5,84,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="300,5,338,83"/>
+<area shape="rect" id="node6" href="$struct_sector.html" title="Sektor jest to pozycja jednego kafelka/kwadrtatu na mapie o rozmiarze 64x64 (ale zostaje pozniej prze..." alt="" coords="509,204,644,369"/>
+<area shape="rect" id="node7" title=" " alt="" coords="484,5,554,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="700,5,746,83"/>
+<area shape="rect" id="node9" title=" " alt="" coords="888,248,939,325"/>
+</map>

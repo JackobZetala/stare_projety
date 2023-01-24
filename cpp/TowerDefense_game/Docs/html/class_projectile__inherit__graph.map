@@ -1,0 +1,6 @@
+<map id="Projectile" name="Projectile">
+<area shape="rect" id="node1" title="Pocisk posiada swoj cel i dazy do niego, gdy dosiegniegnie swojego celu to zabiera mu HP a sam znika ..." alt="" coords="13,388,165,553"/>
+<area shape="rect" id="node4" href="$class_bullet.html" title="Kula jest to konkretny pocisk" alt="" coords="52,601,127,679"/>
+<area shape="rect" id="node2" href="$class_entity.html" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="5,131,173,340"/>
+<area shape="rect" id="node3" title=" " alt="" coords="43,5,136,83"/>
+</map>

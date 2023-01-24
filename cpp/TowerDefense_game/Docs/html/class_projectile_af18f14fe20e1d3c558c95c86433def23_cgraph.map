@@ -1,0 +1,7 @@
+<map id="Projectile::reachedDestination" name="Projectile::reachedDestination">
+<area shape="rect" id="node1" title="Sprawdza czy pocisk dotarl do celu" alt="" coords="5,31,200,57"/>
+<area shape="rect" id="node2" href="$class_entity.html#a82c77b14cad08fd1785e7d670cfb0e6f" title="Zwraca dana pozycje" alt="" coords="248,5,377,32"/>
+<area shape="rect" id="node3" href="$class_entity.html#acc04faabd63ddeacfc47ad9ba351e7c6" title="Sprawdza czy cel jest w zasiegu" alt="" coords="252,56,373,83"/>
+<area shape="rect" id="node4" href="$class_entity.html#aedc0cc77d260040b618142078cecfa8e" title="Zwraca odleglosc miedzy bytami do kwadratu" alt="" coords="425,56,616,83"/>
+<area shape="rect" id="node5" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="664,56,769,83"/>
+</map>

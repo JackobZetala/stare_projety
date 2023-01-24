@@ -1,0 +1,6 @@
+<map id="Sector" name="Sector">
+<area shape="rect" id="node1" title="Sektor jest to pozycja jednego kafelka/kwadrtatu na mapie o rozmiarze 64x64 (ale zostaje pozniej prze..." alt="" coords="113,189,248,355"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,44,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="145,5,216,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="263,5,309,83"/>
+</map>

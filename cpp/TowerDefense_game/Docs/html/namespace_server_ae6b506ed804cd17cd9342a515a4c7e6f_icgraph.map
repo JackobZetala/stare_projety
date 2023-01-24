@@ -1,0 +1,5 @@
+<map id="Server::CheckMessage" name="Server::CheckMessage">
+<area shape="rect" id="node1" title="Funkcja do wysylania wiadomosci przez serwer do klientow" alt="" coords="260,5,416,32"/>
+<area shape="rect" id="node2" href="$namespace_server.html#a79093bbae7c6245ba03ed346152e37ef" title="Funkcja wywolywana w mainie aby sprawdzac thready" alt="" coords="104,5,212,32"/>
+<area shape="rect" id="node3" href="$_t_d_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,32"/>
+</map>

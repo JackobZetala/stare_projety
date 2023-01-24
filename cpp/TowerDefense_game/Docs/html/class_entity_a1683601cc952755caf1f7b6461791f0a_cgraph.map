@@ -1,0 +1,6 @@
+<map id="Entity::moveTowards" name="Entity::moveTowards">
+<area shape="rect" id="node1" title="Sprawdza czy porusza sie w kierunku celu" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="436,5,541,32"/>
+<area shape="rect" id="node3" href="$_sector_8cpp.html#a8e283bfa16fa9d14a755cddac912af07" title="z trzech podanych wartosci wylicza predkosc" alt="" coords="196,31,261,57"/>
+<area shape="rect" id="node4" href="$_sector_8h.html#ae62f6dcf1d32844b4719aa5e61c3c133" title="normalizuje vector" alt="" coords="309,31,388,57"/>
+</map>

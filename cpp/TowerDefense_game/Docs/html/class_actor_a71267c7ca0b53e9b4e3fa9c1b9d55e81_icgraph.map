@@ -1,0 +1,5 @@
+<map id="Actor::toRemove" name="Actor::toRemove">
+<area shape="rect" id="node1" title="Sprawdza czy aktor jest do usuniecia (przeszedl sciezke lub umarl)" alt="" coords="195,31,313,57"/>
+<area shape="rect" id="node2" href="$class_projectile.html#ad6c60f24f30506b8b7870373a73d74ee" title="sprawdza czy pocisk jest do usuniecia" alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$class_actor.html#ab9e3300cf6e2085c5991866311336916" title="Aktualizuje aktorow" alt="" coords="26,56,126,83"/>
+</map>

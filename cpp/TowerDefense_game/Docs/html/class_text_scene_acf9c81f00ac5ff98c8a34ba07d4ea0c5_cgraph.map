@@ -1,0 +1,4 @@
+<map id="TextScene::handleInput" name="TextScene::handleInput">
+<area shape="rect" id="node1" title="Sprawdza nacisniecie klawisza" alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$class_scene.html#aee42a11b428e5c2f20a8035f4bb39fa2" title="Zadanie zmiany sceny" alt="" coords="212,5,403,32"/>
+</map>

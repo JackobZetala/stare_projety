@@ -1,0 +1,4 @@
+<map id="Entity::getTextureId" name="Entity::getTextureId">
+<area shape="rect" id="node1" title="Zwraca Id tekstury" alt="" coords="145,5,280,32"/>
+<area shape="rect" id="node2" href="$class_actor.html#afcd06ab85160427f894b3aa053cd4b22" title="Klonuje aktora" alt="" coords="5,5,97,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Grid::isBuildingAllowedAt" name="Grid::isBuildingAllowedAt">
+<area shape="rect" id="node1" title="sprawdza czy w danycm sektorze nie ma juz czegos zbudowanego" alt="" coords="5,31,173,57"/>
+<area shape="rect" id="node2" href="$class_grid.html#a6e9bc84a5d8fd8b9b37b8b58f5adae0d" title="zwraca kordy sektora razem z blockAt(int,int)" alt="" coords="258,5,357,32"/>
+<area shape="rect" id="node3" href="$class_grid.html#aa4d15d9b667fe85a53fb77b262a4afd0" title="sprawdza czy na tym sektorze jest dozwolone budowanie" alt="" coords="221,56,393,83"/>
+</map>

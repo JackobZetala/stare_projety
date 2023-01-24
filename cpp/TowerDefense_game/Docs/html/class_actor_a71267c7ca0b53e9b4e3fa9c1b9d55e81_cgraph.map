@@ -1,0 +1,5 @@
+<map id="Actor::toRemove" name="Actor::toRemove">
+<area shape="rect" id="node1" title="Sprawdza czy aktor jest do usuniecia (przeszedl sciezke lub umarl)" alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$class_actor.html#a7c00ba12a63fd996b7e524d1e7e53e0e" title="Sprawdza czy aktor posiada HP" alt="" coords="209,5,307,32"/>
+<area shape="rect" id="node3" href="$class_actor.html#a9e6c984a0434a685850992ad18cc8921" title="Sprawdza czy aktor przeszedl sciezke" alt="" coords="172,56,344,83"/>
+</map>

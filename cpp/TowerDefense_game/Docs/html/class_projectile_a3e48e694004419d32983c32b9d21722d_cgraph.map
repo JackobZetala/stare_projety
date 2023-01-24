@@ -1,0 +1,9 @@
+<map id="Projectile::update" name="Projectile::update">
+<area shape="rect" id="node1" title="aktualizuje pociski" alt="" coords="5,56,128,83"/>
+<area shape="rect" id="node2" href="$class_actor.html#a3a680c92dbb81605748b4c35e3a331b8" title="Zabiera HP aktorowi" alt="" coords="194,5,301,32"/>
+<area shape="rect" id="node3" href="$class_entity.html#a82c77b14cad08fd1785e7d670cfb0e6f" title="Zwraca dana pozycje" alt="" coords="183,56,312,83"/>
+<area shape="rect" id="node4" href="$class_entity.html#a1683601cc952755caf1f7b6461791f0a" title="Sprawdza czy porusza sie w kierunku celu" alt="" coords="176,107,319,133"/>
+<area shape="rect" id="node5" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="607,107,712,133"/>
+<area shape="rect" id="node6" href="$_sector_8cpp.html#a8e283bfa16fa9d14a755cddac912af07" title="z trzech podanych wartosci wylicza predkosc" alt="" coords="367,132,432,159"/>
+<area shape="rect" id="node7" href="$_sector_8h.html#ae62f6dcf1d32844b4719aa5e61c3c133" title="normalizuje vector" alt="" coords="480,132,559,159"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GameScene::draw" name="GameScene::draw">
+<area shape="rect" id="node1" title="Nadpisana virtualna metoda rysujaca obiekt w danym miejscu" alt="" coords="5,56,135,83"/>
+<area shape="rect" id="node2" href="$class_context_menu.html#a02b6b823f044d4d779f23e86f9fa9c3f" title="rysuje obramoawnie" alt="" coords="183,5,317,32"/>
+<area shape="rect" id="node3" href="$class_status_bar.html#ad0491e2ffb6985d8c31f23d4b28c6caf" title="wyrysowuje pasek statusu" alt="" coords="193,56,307,83"/>
+<area shape="rect" id="node4" href="$class_world.html#ae900d083a1a7770fecc839a87e30f474" title="Rysuje wszystkie wskazane obiekty" alt="" coords="205,107,295,133"/>
+<area shape="rect" id="node5" href="$class_world.html#ae7a76510f5e321e9d5c1de690e64120b" title="Rysuje dane byty" alt="" coords="365,107,472,133"/>
+</map>

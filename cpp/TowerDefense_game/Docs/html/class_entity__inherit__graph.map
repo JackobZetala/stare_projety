@@ -1,0 +1,11 @@
+<map id="Entity" name="Entity">
+<area shape="rect" id="node1" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="175,131,343,340"/>
+<area shape="rect" id="node3" href="$class_actor.html" title="Aktor dziedziczy po bytch i reprezentuje przeciwnikow &#160;&#160;Aktor chodzi po siezce, przy trafieniu pocisk..." alt="" coords="5,410,159,649"/>
+<area shape="rect" id="node5" href="$class_projectile.html" title="Pocisk posiada swoj cel i dazy do niego, gdy dosiegniegnie swojego celu to zabiera mu HP a sam znika ..." alt="" coords="183,447,335,612"/>
+<area shape="rect" id="node7" href="$class_tower.html" title="Wieze buduje uytkownik i dzieki nim walczymy z przeciwnikiem Uzytkownik ma wiele miejsc zeby postawic..." alt="" coords="359,388,546,671"/>
+<area shape="rect" id="node2" title=" " alt="" coords="213,5,306,83"/>
+<area shape="rect" id="node4" href="$class_soldier.html" title="Zolnierz jest to juz konkretny przeciwnik, dziedziczy po aktorze" alt="" coords="27,719,137,869"/>
+<area shape="rect" id="node6" href="$class_bullet.html" title="Kula jest to konkretny pocisk" alt="" coords="222,755,297,833"/>
+<area shape="rect" id="node8" href="$class_green_gun.html" title="konkretny typ wiezy" alt="" coords="354,719,482,869"/>
+<area shape="rect" id="node9" href="$class_red_gun.html" title="konkretny typ wiezy" alt="" coords="506,719,634,869"/>
+</map>

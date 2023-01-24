@@ -1,0 +1,4 @@
+<map id="StatusBar::draw" name="StatusBar::draw">
+<area shape="rect" id="node1" title="wyrysowuje pasek statusu" alt="" coords="183,5,297,32"/>
+<area shape="rect" id="node2" href="$class_game_scene.html#a2e0b3cb9929471603f3a7c232ef3172f" title="Nadpisana virtualna metoda rysujaca obiekt w danym miejscu" alt="" coords="5,5,135,32"/>
+</map>

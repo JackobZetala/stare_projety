@@ -1,0 +1,5 @@
+<map id="velocity" name="velocity">
+<area shape="rect" id="node1" title="z trzech podanych wartosci wylicza predkosc" alt="" coords="5,5,71,32"/>
+<area shape="rect" id="node2" href="$_sector_8h.html#ae62f6dcf1d32844b4719aa5e61c3c133" title="normalizuje vector" alt="" coords="119,5,197,32"/>
+<area shape="rect" id="node3" href="$_sector_8h.html#a9564beadf507313e6cea6232c6042963" title="Wartosc vektora do kwadratu" alt="" coords="245,5,351,32"/>
+</map>

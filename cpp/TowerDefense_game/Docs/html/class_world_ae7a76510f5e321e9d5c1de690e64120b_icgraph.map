@@ -1,0 +1,5 @@
+<map id="World::drawAll" name="World::drawAll">
+<area shape="rect" id="node1" title="Rysuje dane byty" alt="" coords="321,5,428,32"/>
+<area shape="rect" id="node2" href="$class_world.html#ae900d083a1a7770fecc839a87e30f474" title="Rysuje wszystkie wskazane obiekty" alt="" coords="183,5,273,32"/>
+<area shape="rect" id="node3" href="$class_game_scene.html#a2e0b3cb9929471603f3a7c232ef3172f" title="Nadpisana virtualna metoda rysujaca obiekt w danym miejscu" alt="" coords="5,5,135,32"/>
+</map>

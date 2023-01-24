@@ -1,0 +1,6 @@
+<map id="Client::Startup" name="Client::Startup">
+<area shape="rect" id="node1" title="Funkcja wywolywana w mainie aby sprawdzac thready" alt="" coords="5,56,111,83"/>
+<area shape="rect" id="node2" href="$namespace_client.html#ac88ae3476c65e5350b7d44e9ef41e36b" title="Funkcja do wysylania wiadomosci" alt="" coords="159,5,312,32"/>
+<area shape="rect" id="node3" href="$namespace_client.html#a05bf1f84a6edc747c43bcb67a795cb40" title="Funkcja do laczenia sie z serwerem" alt="" coords="180,56,291,83"/>
+<area shape="rect" id="node4" href="$namespace_client.html#af7d519dc8d7998972be7096811c9f70a" title="Odbieranie wiadomosci i wyswietlanie" alt="" coords="181,107,289,133"/>
+</map>

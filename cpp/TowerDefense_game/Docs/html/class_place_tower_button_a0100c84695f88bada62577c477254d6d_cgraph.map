@@ -1,0 +1,4 @@
+<map id="PlaceTowerButton::draw" name="PlaceTowerButton::draw">
+<area shape="rect" id="node1" title="postawienie wiezy i usuniecie podgladu wiezy" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$class_button.html#a94b2be0ad227968afccae8bc297ed99a" title="rysuje sprite i icon" alt="" coords="216,5,311,32"/>
+</map>

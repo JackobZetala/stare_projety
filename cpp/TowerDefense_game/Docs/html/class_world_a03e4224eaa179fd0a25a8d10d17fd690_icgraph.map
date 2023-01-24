@@ -1,0 +1,4 @@
+<map id="World::fire" name="World::fire">
+<area shape="rect" id="node1" title="Tworzy pocisk i dodaje go do vektoru projectiles" alt="" coords="156,5,237,32"/>
+<area shape="rect" id="node2" href="$class_tower.html#a84b90fadf302c01adaa19cb597a66e53" title="aktualizuje wieze" alt="" coords="5,5,108,32"/>
+</map>

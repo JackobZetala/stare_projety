@@ -1,0 +1,4 @@
+<map id="ContextMenu::handleInput" name="ContextMenu::handleInput">
+<area shape="rect" id="node1" title="wylapuje wcisniecie myszki" alt="" coords="221,5,395,32"/>
+<area shape="rect" id="node2" href="$class_game_scene.html#a31563d35431488c490ffb355e8ea36bf" title="Nadpisana virtualna metoda sprawdzajaca nacisniecie przycisku" alt="" coords="5,5,173,32"/>
+</map>

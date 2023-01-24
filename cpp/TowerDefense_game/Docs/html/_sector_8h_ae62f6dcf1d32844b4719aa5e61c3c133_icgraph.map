@@ -1,0 +1,7 @@
+<map id="normalize" name="normalize">
+<area shape="rect" id="node1" title="normalizuje vector" alt="" coords="480,31,559,57"/>
+<area shape="rect" id="node2" href="$_sector_8cpp.html#a8e283bfa16fa9d14a755cddac912af07" title="z trzech podanych wartosci wylicza predkosc" alt="" coords="367,31,432,57"/>
+<area shape="rect" id="node3" href="$class_entity.html#a1683601cc952755caf1f7b6461791f0a" title="Sprawdza czy porusza sie w kierunku celu" alt="" coords="176,31,319,57"/>
+<area shape="rect" id="node4" href="$class_actor.html#ab9e3300cf6e2085c5991866311336916" title="Aktualizuje aktorow" alt="" coords="17,5,117,32"/>
+<area shape="rect" id="node5" href="$class_projectile.html#a3e48e694004419d32983c32b9d21722d" title="aktualizuje pociski" alt="" coords="5,56,128,83"/>
+</map>

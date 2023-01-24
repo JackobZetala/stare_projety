@@ -1,0 +1,5 @@
+<map id="Entity::Entity" name="Entity::Entity">
+<area shape="rect" id="node1" title="konstruktor" alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$struct_assets.html#afbe67810b540acabdee094924013a344" title=" " alt="" coords="165,5,254,32"/>
+<area shape="rect" id="node3" href="$_sector_8cpp.html#a1ed20c4ac93449e269a74b491df445e2" title="prostokat z tilesheet brany z textureId, bazuje na kafelkach/kwadratach" alt="" coords="152,56,267,83"/>
+</map>

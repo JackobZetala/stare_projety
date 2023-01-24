@@ -1,0 +1,13 @@
+<map id="PlaceTowerButton&lt; T &gt;" name="PlaceTowerButton&lt; T &gt;">
+<area shape="rect" id="node1" title="Przycisk ktory po wcisnieciu buduje wieze i zmniejsza balans konta uzytkownika" alt="" coords="349,432,507,539"/>
+<area shape="rect" id="node2" href="$class_button.html" title="Przycisk reaguje na polozenie myszy i klikniecie Przycisk rozpoznaje kiedy przycisk zostal juz odklik..." alt="" coords="200,189,336,369"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,99,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="123,5,215,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="240,5,296,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="321,5,367,83"/>
+<area shape="rect" id="node7" href="$struct_sector.html" title="Sektor jest to pozycja jednego kafelka/kwadrtatu na mapie o rozmiarze 64x64 (ale zostaje pozniej prze..." alt="" coords="361,197,495,362"/>
+<area shape="rect" id="node8" title=" " alt="" coords="403,5,442,83"/>
+<area shape="rect" id="node9" title=" " alt="" coords="543,5,614,83"/>
+<area shape="rect" id="node10" title=" " alt="" coords="661,5,707,83"/>
+<area shape="rect" id="node11" title=" " alt="" coords="520,241,651,318"/>
+</map>

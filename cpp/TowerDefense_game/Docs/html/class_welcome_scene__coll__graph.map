@@ -1,0 +1,9 @@
+<map id="WelcomeScene" name="WelcomeScene">
+<area shape="rect" id="node1" title="Scena powitalna z info co za gra i kto wykonal" alt="" coords="223,529,358,621"/>
+<area shape="rect" id="node2" href="$class_text_scene.html" title="Abstrakcyjna scena ktora wyswietla dwa teksty i po nacisniecia klawisza przenosi na kolejna scene Zar..." alt="" coords="237,373,345,480"/>
+<area shape="rect" id="node3" href="$class_scene.html" title="Klasa nadrzeda wsrod scen Tworzy wirtualne metody oraz metode ktora moze zazadac zmiany sceny" alt="" coords="47,145,243,296"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,99,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="123,5,357,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="267,182,314,259"/>
+<area shape="rect" id="node7" title=" " alt="" coords="338,182,425,259"/>
+</map>

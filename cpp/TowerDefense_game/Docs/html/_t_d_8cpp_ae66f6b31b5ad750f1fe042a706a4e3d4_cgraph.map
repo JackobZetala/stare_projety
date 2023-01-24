@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,196,56,223"/>
+<area shape="rect" id="node2" href="$class_app.html#a6a220813781230cf8270e9e6c84c549f" title="Metoda uzywana raz w punkcie odpalania programu, laduje textury" alt="" coords="119,51,197,77"/>
+<area shape="rect" id="node4" href="$class_app.html#af1e167f170bdf69925a7a4d690d53764" title="Metoda glownej petli gry ktora utrzymuje sie dopoki otwarte jest okno Podczas tej petli sprawdzane sa..." alt="" coords="119,145,197,172"/>
+<area shape="rect" id="node8" href="$namespace_client.html#a8ae5e4c758dbb1de26675a0473578814" title="Funkcja wywolywana w mainie aby sprawdzac thready" alt="" coords="105,221,211,248"/>
+<area shape="rect" id="node12" href="$namespace_server.html#a79093bbae7c6245ba03ed346152e37ef" title="Funkcja wywolywana w mainie aby sprawdzac thready" alt="" coords="104,385,212,412"/>
+<area shape="rect" id="node3" href="$struct_assets.html#afbe67810b540acabdee094924013a344" title=" " alt="" coords="303,5,392,32"/>
+<area shape="rect" id="node5" href="$class_app.html#a0d1e34ad933202ee69bf59038c21d46a" title="Metoda odpowiedzialna za pilnowanie czasu odswiezania" alt="" coords="260,56,435,83"/>
+<area shape="rect" id="node6" href="$class_app.html#a82cf101250fcf289a59c4d4b9b847029" title="Metoda trzymajaca informacje o jakims wejsciu" alt="" coords="288,107,407,133"/>
+<area shape="rect" id="node7" href="$class_app.html#ae809421e976d032b98a28f282774c137" title="Metoda trzymajaca prosbe o zmiane sceny" alt="" coords="261,157,433,184"/>
+<area shape="rect" id="node9" href="$namespace_client.html#ac88ae3476c65e5350b7d44e9ef41e36b" title="Funkcja do wysylania wiadomosci" alt="" coords="271,208,424,235"/>
+<area shape="rect" id="node10" href="$namespace_client.html#a05bf1f84a6edc747c43bcb67a795cb40" title="Funkcja do laczenia sie z serwerem" alt="" coords="292,259,403,285"/>
+<area shape="rect" id="node11" href="$namespace_client.html#af7d519dc8d7998972be7096811c9f70a" title="Odbieranie wiadomosci i wyswietlanie" alt="" coords="293,309,401,336"/>
+<area shape="rect" id="node13" href="$namespace_server.html#ae6b506ed804cd17cd9342a515a4c7e6f" title="Funkcja do wysylania wiadomosci przez serwer do klientow" alt="" coords="269,360,425,387"/>
+<area shape="rect" id="node14" href="$namespace_server.html#a72b6fffb20ca10937dcedcc2ac133e53" title="Serwer odbiera wiadomosc od jakiegos klienta i odsyla ja do kazdego klienta oraz wyswitla ta widomosc..." alt="" coords="275,411,419,437"/>
+<area shape="rect" id="node15" href="$namespace_server.html#a6774ba1f44b734ea0f3331980e485d5b" title="Ustawianie portu" alt="" coords="290,461,405,488"/>
+</map>

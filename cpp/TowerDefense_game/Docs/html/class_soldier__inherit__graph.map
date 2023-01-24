@@ -1,0 +1,6 @@
+<map id="Soldier" name="Soldier">
+<area shape="rect" id="node1" title="Zolnierz jest to juz konkretny przeciwnik, dziedziczy po aktorze" alt="" coords="35,675,144,825"/>
+<area shape="rect" id="node2" href="$class_actor.html" title="Aktor dziedziczy po bytch i reprezentuje przeciwnikow &#160;&#160;Aktor chodzi po siezce, przy trafieniu pocisk..." alt="" coords="13,388,166,627"/>
+<area shape="rect" id="node3" href="$class_entity.html" title="Klasa nadrzedna wszystkich bytow Posiada wlasny Sprite do ktorego przypisuje teksture zgodnie z ident..." alt="" coords="5,131,173,340"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,136,83"/>
+</map>

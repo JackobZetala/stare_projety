@@ -1,0 +1,7 @@
+<map id="Director::update" name="Director::update">
+<area shape="rect" id="node1" title="metoda aktualizujaca stan fali" alt="" coords="5,81,120,108"/>
+<area shape="rect" id="node2" href="$class_world.html#a610909a6d6d2bf0cf4d798829079d2ff" title="Zwraca vektor wszytkich aktorow" alt="" coords="177,5,297,32"/>
+<area shape="rect" id="node3" href="$class_world.html#a80564af5f8af6c40e67ada8022b9ced0" title="Zwraca sciezke" alt="" coords="184,56,291,83"/>
+<area shape="rect" id="node4" href="$class_grid.html#a32df27c3821add9ba6b156d609507ba7" title="zwraca sciezke po ktorej poruszaja sie aktorzy" alt="" coords="188,107,287,133"/>
+<area shape="rect" id="node5" href="$class_director.html#a4a73b20cf04f558449b2b2b2a83bd180" title="tworzy fale" alt="" coords="168,157,307,184"/>
+</map>
